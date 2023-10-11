@@ -1,0 +1,40 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.mainContainer{
+  margin-top: 2rem;
+  margin-left: 15rem;
+  margin-right: 15rem;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  
+
+}
+.subContainer{
+  gap: 20px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 10px;
+  margin-right: 20px;
+
+ 
+}
+.word{
+  font-weight: bold;
+  color: rgb(10, 10, 90);
+  text-decoration: underline;
+}
+.heading{
+  display: flex;
+  flex-direction: column;
+  color: brown;
+text-align: center;
+font-size: 40px;
+}

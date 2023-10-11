@@ -1,0 +1,334 @@
+{
+  "terminology": [
+    {
+      "course": "analytics",
+      "term": "Artificial intelligence",
+      "definition": "AI marketing uses artificial intelligence technologies to make automated decisions based on data collection, data analysis, and additional observations of audience or economic trends that may impact marketing efforts."
+    },
+    {
+      "course": "analytics",
+      "term": "Binary",
+      "definition": "relating to or consisting of two things, in which everything is either one thing or the other"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "objectives",
+      "definition": "Marketing objectives are actionable targets designed to provide not just overall direction, but clear and specific actions. They are specific, measurable, attainable, relevant, and time-based (These are often called SMART goals)"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "SMART",
+      "definition": "SMART stands for specific, measurable, achievable/aspirational, realistic/relevant, and timely. For a goal to be SMART, it must have a specific or clearly defined target, a way to measure your performance, and an end result to aspire to that wouldn't naturally occur."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "tactics",
+      "definition": "Marketing tactics are a series or set of strategic methods or actions aimed at promoting a business’ goods or services."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "customer lifecycle",
+      "definition": "customer lifecycle is a term used to describe the progression of steps a customer goes through when considering, purchasing, using and maintaining loyalty to a product or service."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "marketing funnel",
+      "definition": "A marketing funnel is a series of stages to guide prospects through the customer journey. The funnel helps marketing teams plan and measure efforts to attract, engage, and convert prospects through content and other marketing materials, like landing pages and ads."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "CRM",
+      "definition": "Customer relationship management (CRM) is a technology for managing all your company’s relationships and interactions with customers and potential customers. The goal is simple: Improve business relationships to grow your business. "
+    },
+    {
+      "course": "marketing in attention",
+      "term": "market",
+      "definition": "The process by which companies create value for customers and build strong customer relationships to capture value from customers in return"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "target market",
+      "definition": "A target market is a group of people that have been identified as the most likely potential customers for a product because of their shared characteristics, such as age, income, and lifestyle.A target market is a group of customers with shared demographics who have been identified as the most likely buyers of a company's product or service."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "audience",
+      "definition": "lorem"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "TAM",
+      "definition": "lorem"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "SAM",
+      "definition": "lorem"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "SOM",
+      "definition": "lorem"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "strategy",
+      "definition": "A strategy describes how the ends (goals) will be achieved by the means (resources)."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "lead",
+      "definition": "lorem"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "prospect",
+      "definition": "lorem"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "TOFU",
+      "definition": "The top of the funnel (TOFU) is where prospects become aware of your brand and engage with it for the first time. They might not know a lot about your product or service yet, so this stage focuses on content and marketing material that promotes brand awareness."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "MOFU",
+      "definition": "Potential customers enter the middle of the funnel (MOFU) once they’ve engaged with your brand in a meaningful way: maybe they’ve subscribed to an email list, are following you on social media, or have signed up for a webinar."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "BOFU",
+      "definition": "The bottom of the funnel (BOFU) is the last place prospective customers go before they convert. You’ve gotten their attention, built trust, and fostered a relationship with them."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "customer journey",
+      "definition": "lorem"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "touchpiont",
+      "definition": "lorem"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "Conversion",
+      "definition": "conversion in marketing is when a user performs a desired action in response to a call-to-action (CTA) placed in an ad, offer, or push"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "Micro-Conversion",
+      "definition": "Add some value to your organization...Micro-conversions are the completion of small steps or secondary actions by a website visitor that indicate that they are going to convert."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "OmniChannel Marketing",
+      "definition": "Omnichannel marketing is an approach in which businesses create and maintain clear, consistent messaging across all their marketing channels. Its main purpose is to increase reach, reduce friction, and boost sales."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "Conversion Rate",
+      "definition": "The percentage of site visitors who completed a desired action. Calculated by taking the total number of users who converted divided by the total of site visitors"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "CTA",
+      "definition": "A call-to-action (CTA) tells someone what specific actions to take."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "Market Segmentation",
+      "definition": ""
+    },
+    {
+      "course": "marketing in attention",
+      "term": "target audience",
+      "definition": "A target audience is the specific group of people that you want to reach with your marketing."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "Geographic segmentation",
+      "definition": "Geographic segmentation is the practice of dividing your audience based on geographic region, from country right down to postal code. It is used to target products or services at people who live in, work in, or shop at a particular location"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "demographic segmentation",
+      "definition": "Demographic segmentation is a precise form of audience identification based on data points like age, gender, marital status, family size, income, education, race, occupation, nationality, and/or religion."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "Cultural segmentation",
+      "definition": "Cultural segmentation is about understanding customer conduct in the context of social traditions, attitudes and behaviours embedded in the community to which they belong."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "behavioural segmentation",
+      "definition": "Behavioral segmentation refers to a process in marketing which divides customers into segments depending on their behavior patterns when interacting with a particular business or website."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "Psychographic segmentation",
+      "definition": "Psychographic segmentation divides buyers into different segments based on internal characteristics—personality, values, beliefs, lifestyle, attitudes, interests, and social class—so you can market accordingly. "
+    },
+    {
+      "course": "marketing in attention",
+      "term": "benefits-sought segmentation",
+      "definition": "a type of market segmentation that categorizes customers based on the perceived value and advantages they can receive from goods and services."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "usage-rate segmentation",
+      "definition": "Usage rate segmentation is used to divide customers into groups according to how much they use the product. It helps product managers determine which features are most and least liked by different users."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "value-based segmentation",
+      "definition": "Value-based segmentation evaluates groups of customers in terms of the revenue they generate and the costs of establishing and maintaining relationships with them. "
+    },
+    {
+      "course": "marketing in attention",
+      "term": "preference-based segmentation",
+      "definition": "dividing a customer base into different groups based on common characteristics, behaviors, or interests. By creating customer segments, businesses can create targeted marketing messages and campaigns that are more likely to resonate with their customers."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "mass customization",
+      "definition": "Mass customization is a process that allows a customer to personalize certain features of a product while still keeping costs at or near mass production prices."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "one-to-one marketing",
+      "definition": "one-to-one marketing (also called relationship marketing or customer-relationship management) means being willing and able to change your behavior toward an individual customer based on what the customer tells you and what else you know about that customer. "
+    },
+    {
+      "course": "marketing in attention",
+      "term": "Market segmentation",
+      "definition": "Market segmentation is the process of splitting customers, or potential customers, in a market into different groups, or segments, within which customers share a similar level of interest in the same, or comparable, set of needs satisfied by a distinct marketing proposition."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "USP",
+      "definition": "A unique selling point (USP), also called a unique selling proposition, is the essence of what makes your product or service better than competitors. In online marketing, communicating your USP clearly and quickly is one of the keys to getting potential customers to convert on your site."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "Differentiation",
+      "definition": "Differentiation occurs when a company, product or service stands out from the competition by meeting a unique customer need, incorporating special features not generally available, or by serving a specific target market better than anyone else. "
+    },
+    {
+      "course": "marketing in attention",
+      "term": "positioning",
+      "definition": "Positioning refers to the place you want your brand or product to have within a particular target market. More specifically, the process of market positioning and brand positioning involves how you market your brand or product to consumers to achieve that position."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "repositioning",
+      "definition": "The term refers to the process of changing a target market's understanding or perception of a product or service. A product's positioning involves what customers think about its features and how they compare it to competing products. Therefore, repositioning involves completely altering how the target market perceives the product. Repositioning is often a challenge, especially for brands that are well known to the public."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "perceptual map",
+      "definition": "A perceptual map is a diagram mapping out what the customers think about your products and services. Aside from just the offerings, it can also map what they think about other brands, even the competitors, and their products."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "value proposition",
+      "definition": "A company's value proposition tells a customer the number one reason why a product or service is best suited for that particular customer."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "user persona",
+      "definition": "A user persona is a semi-fictional character created to represent different customer types that use a company's products or services. User personas are profiles of imagined individuals that reflect a business' core customer base."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "buyer persona",
+      "definition": "A buyer persona is a detailed description of someone who represents your target audience. This persona is fictional but based on deep research of your existing or desired audience. You might also hear it called a customer persona, audience persona, or marketing persona."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "anti-personas",
+      "definition": "The anti-personas represent the people you specifically do NOT want using your product or service. They are 'anti' because your product or service will most likely never be a good fit. "
+    },
+    {
+      "course": "marketing in attention",
+      "term": "POEM",
+      "definition": "POEM stands for paid, owned, and earned media."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "customer insight",
+      "definition": "Customer insights are a collection of trends in consumer behavior, data, and feedback that helps businesses deeply understand their customers and their purchasing decisions. "
+    },
+    {
+      "course": "marketing in attention",
+      "term": "Flywheel",
+      "definition": "It works like any other wheel. As you feed it with more energy, it will begin to spin faster and faster. When applied to marketing, satisfied customers are the energy that keeps the wheel spinning and building momentum."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "marketing in attention",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "marketing in attention",
+      "term": "Macro-conversion",
+      "definition": "Add monetary value to your organization. A macro-conversion is the action customers take that serves the primary goal of your business: the main thing your marketing and sales teams are driving users to do. Common macro-conversion metrics include product sales, event registrations, and community sign-ups."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "Ethnography",
+      "definition": "Ethnography is a qualitative method for collecting data often used in the social and behavioral sciences. Data are collected through observations and interviews, which are then used to draw conclusions about how societies and individuals function"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "double-barreled question?",
+      "definition": "is a question that essentially includes more than one topic and is asking about two different issues, while only allowing a single answer. For example: “How much do you enjoy collecting and analyzing data?”"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "primary research",
+      "definition": "lorem"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "secondary reasearch",
+      "definition": "lorem"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "zero, first, second and third-party data",
+      "definition": "lorem"
+    },
+    {
+      "course": "marketing in attention",
+      "term": "qualitative research",
+      "definition": "Qualitative research relies on the observation and collection of non-numerical insights such as opinions and motivations."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "quantitative research",
+      "definition": " quantitative research gives you hard data. Quantitative research is designed to gather data points in measurable, numerical form."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "netnography",
+      "definition": "Netnography is a research method used to study online communities and cultures. It involves analyzing data collected from online data sources, such as online forums, social media, and blogs, to gain insights into individuals' behaviors, attitudes, and interactions within those communities."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "empathy mappinng",
+      "definition": "An empathy map is a tool that brings to light to your most likely customers. It teaches you how to connect with the people who will consume your content, products, or services."
+    },
+    {
+      "course": "marketing in attention",
+      "term": "campaigns",
+      "definition": "Marketing campaigns promote products through different types of media, such as television, radio, print, and online platforms."
+    }
+  ]
+}

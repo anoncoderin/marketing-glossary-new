@@ -11,6 +11,229 @@
       "definition": "relating to or consisting of two things, in which everything is either one thing or the other"
     },
     {
+      "course": "analytics",
+      "term": " digital marketing analytics",
+      "definition": "The analysis of qualitative and quantitative data from your owned, earned, paid digital marketing and the competition, to drive a continual improvement of your customers’ and prospects’ experience with your brand, which translates into your desired outcomes (online and offline)"
+    },
+    {
+      "course": "analytics",
+      "term": "Structured data",
+      "definition": "Structured data is made up of records organized in rows and columns. Can be stored in a database or in a spreadsheet formula.Includes numbers, dates, and text strings. Easy to analyze."
+    },
+    {
+      "course": "analytics",
+      "term": "Unstructured data",
+      "definition": "Most often referred to as qualitative data, unstructured data is usually subjective opinions and judgments of your brand in the form of text, which most analytics software can't collect. This makes unstructured data difficult to gather, store, and organize in typical databases like Excel and SQL."
+    },
+    {
+      "course": "analytics",
+      "term": "Continuous data",
+      "definition": "Continuous data refers to data that can be measured. This data has values that are not fixed and have an infinite number of possible values. These measurements can also be broken down into smaller individual parts. Some examples of continuous data would include: The height or weight of a person."
+    },
+    {
+      "course": "analytics",
+      "term": "Discrete data",
+      "definition": "Discrete data refers to specific, countable values. It's like counting apples in a basket; each apple can be counted individually. In marketing, this could mean counting the number of times an advertisement is clicked or how many products are purchased during a sale."
+    },
+    {
+      "course": "analytics",
+      "term": "Descriptive analysis",
+      "definition": " Use data from prior campaigns to guide marketing decisions going forward. Descriptive analytics is the process of parsing historical data to better understand the changes that occur in a business.Using a range of historic data and benchmarking, decision-makers obtain a holistic  view of performance and trends on which to base business strategy. Examples of metrics used in descriptive analytics include year-over-year pricing changes, month-over-month sales growth, the number of users, or the total revenue per subscriber."
+    },
+    {
+      "course": "analytics",
+      "term": "Machine learning",
+      "definition": "Machine learning algorithms can analyze customer data and segment customers into groups more likely to respond to specific marketing campaigns. This can be done by collecting data from various sources, such as social media interactions and website analytics."
+    },
+    {
+      "course": "analytics",
+      "term": "Nominal data",
+      "definition": "Nominal data is qualitative or categorical data, while Ordinal data is considered “in-between” qualitative and quantitative data. Nominal data do not provide any quantitative value, and you cannot perform numeric operations with them or compare them with one another."
+    },
+    {
+      "course": "analytics",
+      "term": "Ordinal data",
+      "definition": "Ordinal data is quantitative data in which variables are organized in ordered categories, such as a ranking from 1 to 10. However, the variables lack a clear interval between them, and values in ordinal data don’t always have an even distribution."
+    },
+    {
+      "course": "analytics",
+      "term": "Predictive analytics",
+      "definition": "Predictive analytics helps marketers better understand the behavior of individuals and more accurately predict which messages are most likely to resonate with which customers, which platforms are best for effectively reaching customers, and when to launch campaigns or send offers."
+    },
+    {
+      "course": "analytics",
+      "term": "Prescriptive analytics",
+      "definition": "Prescriptive analytics is a form of data analytics that tries to answer What do we need to do to achieve this? It uses machine learning to help businesses decide a course of action based on a computer program’s predictions. When used effectively, it can help organizations make decisions based on facts and probability-weighted projections instead of conclusions based on instinct."
+    },
+    {
+      "course": "analytics",
+      "term": "Variables",
+      "definition": "The 4 main types of segmentation variables include demographic, geographic, psychographic, and behavioral traits. For example, if you were to segment your audience based on their zip code, you would be using the geographic variable."
+    },
+    {
+      "course": "analytics",
+      "term": "big data",
+      "definition": "In marketing, big data comprises gathering, analyzing, and using massive amounts of digital information to improve business operations, such as: Getting a 360-degree view of their audiences. The concept of “know your customer” (KYC) was initially conceived many years ago to prevent bank fraud."
+    },
+    {
+      "course": "analytics",
+      "term": "data warehouse",
+      "definition": "A data warehouse is a system that aggregates data from multiple sources into a single, central, consistent data store to support data mining, artificial intelligence (AI), and machine learning—which, ultimately, can enhance sophisticated analytics and business intelligence. A marketing data warehouse is a cloud-based destination for storing and analyzing cross-channel marketing data. Data warehouses allow marketing and analytics teams to consolidate data from multiple platforms including advertising channels like Facebook and Google, web analytics platforms like Google Analytics, and CRM systems like HubSpot and Salesforce, among others."
+    },
+    {
+      "course": "analytics",
+      "term": "Data Mart",
+      "definition": "A data mart is a focused version of a data warehouse that contains a smaller subset of data important to and needed by a single team or a select group of users within an organization. "
+    },
+    {
+      "course": "analytics",
+      "term": "Data Lake",
+      "definition": "A data lake provides massive storage of unstructured or raw data fed via multiple sources, but the information has not yet been processed or prepared for analysis. As a result of being able to store data in a raw format, data lakes are more accessible and cost-effective than data warehouses. There is no need to clean and process data before ingesting."
+    },
+    {
+      "course": "analytics",
+      "term": "data management",
+      "definition": "Marketing data management is the process of collecting, organizing, analyzing, and applying data to your business strategies. It involves taking a systematic approach to your data and using the appropriate tools to achieve business results."
+    },
+    {
+      "course": "analytics",
+      "term": "Data quality",
+      "definition": "Data quality indicates how reliable a given dataset is across key dimensions like completeness, consistency, accuracy, and more."
+    },
+    {
+      "course": "analytics",
+      "term": "Outliers",
+      "definition": "Outliers are data points that deviate significantly from the rest of the distribution. They can be caused by measurement errors, data entry mistakes, or natural variations in the underlying population. Outliers can affect your marketing analytics by skewing your descriptive statistics, distorting your correlations, and biasing your predictive models. Therefore, it is important to handle outliers in your marketing data properly and carefully."
+    },
+    {
+      "course": "analytics",
+      "term": "MarTech",
+      "definition": "Marketing technology, or MarTech, is a term that refers to the various tools and technologies that businesses use to automate, streamline, and optimize their marketing efforts. The use of marketing technology has become increasingly important in recent years as businesses seek to engage with their target audience more effectively, improve their marketing performance, and drive growth and revenue."
+    },
+    {
+      "course": "analytics",
+      "term": "marketing stack",
+      "definition": "A marketing stack, also called a marketing technology stack, is a collection of technologies used by marketers to perform, analyze and improve their services."
+    },
+    {
+      "course": "analytics",
+      "term": "digital ecosystem",
+      "definition": "A digital ecosystem is a group of interconnected information technology resources that can function as a unit. Digital ecosystems are made up of suppliers, customers, trading partners, applications, third-party data service providers and all respective technologies. Interoperability is the key to the ecosystem's success."
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+    {
+      "course": "analytics",
+      "term": "",
+      "definition": ""
+    },
+
+
+    
+    {
       "course": "marketing in attention",
       "term": "objectives",
       "definition": "Marketing objectives are actionable targets designed to provide not just overall direction, but clear and specific actions. They are specific, measurable, attainable, relevant, and time-based (These are often called SMART goals)"

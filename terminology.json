@@ -122,108 +122,198 @@
     },
     {
       "course": "analytics",
-      "term": "",
+      "term": "Goals",
+      "definition": "Goals are specific strategies you'll leverage to accomplish your business objectives."
+    },
+    {
+      "course": "analytics",
+      "term": "Metric:",
+      "definition": "A metric is a number. Technically a metric can be a Count (a total) or a Ratio (a division of one number by another). Examples of metrics that are a Count is Visits or Pageviews. Examples of a Ratio is Conversion Rate (a quantitative metric) or Task Completion Rate (a qualitative metric)."
+    },
+    {
+      "course": "analytics",
+      "term": "Key Performance Indicator",
+      "definition": "A key performance indicator (KPI) is a metric that helps you understand how you are doing against your objectives."
+    },
+    {
+      "course": "analytics",
+      "term": "Targets",
+      "definition": "Targets are numerical values you have pre-determined as indicators success or failure."
+    },
+    {
+      "course": "analytics",
+      "term": "Dimension",
+      "definition": "A dimension is, typically, an attribute of the Visitor to your website. The activity a person performed such as the landing page name, the subsequent pages they saw, videos they played, searches they did on your website and the products they purchased are all dimensions."
+    },
+    {
+      "course": "analytics",
+      "term": "Segments",
+      "definition": "A group of people, their sources, onsite behavior, and outcomes. A segment contains a group of rows from one or more dimensions."
+    },
+    {
+      "course": "analytics",
+      "term": "Marketing reporting",
+      "definition": "Marketing reporting is the process of gathering and analyzing marketing metrics to inform future marketing decisions, strategies, and performance. Marketing reports uncover meaningful, actionable data that help you draw important conclusions and meet organization-wide goals."
+    },
+    {
+      "course": "analytics",
+      "term": "marketing dashboard",
+      "definition": "A marketing dashboard is a visual tool that displays key marketing details and targets for a business in an easy-to-see way. It gathers main marketing reports on one page, helping marketers and leaders see their marketing progress. This lets them make data driven decisions using key marketing metrics."
+    },
+    {
+      "course": "analytics",
+      "term": "Cost per lead (CPL)",
+      "definition": "Cost per lead (or CPL) is a metric that marketers use to measure how cost-effective campaigns are at generating new leads. CPL helps marketers understand how much of their budget is spent on acquiring new leads for the business and gives them a ROI figure."
+    },
+    {
+      "course": "analytics",
+      "term": "CPC",
+      "definition": "Cost per click (CPC) is a metric for how much each click costs in a pay-per-click advertising campaign."
+    },
+    {
+      "course": "analytics",
+      "term": "ROAS",
+      "definition": "ROAS stands for return on ad spend—a marketing metric that measures the amount of revenue your business earns for each dollar it spends on advertising."
+    },
+    {
+      "course": "analytics",
+      "term": "ROI",
+      "definition": "The Return on Marketing Investment KPI measures how much revenue a marketing campaign is generating compared to the cost of running that campaign. it is measuring the money your company spends on marketing campaigns against the revenue those campaigns generate."
+    },
+    {
+      "course": "analytics",
+      "term": "Event",
+      "definition": "In analytics, an event is recorded when an Internet user performs an action on your website. Events can be measured independently of loading a new page."
+    },
+    {
+      "course": "analytics",
+      "term": "Conversion rate",
+      "definition": "Conversion rate is the number of conversions divided by the number of visitors."
+    },
+    {
+      "course": "analytics",
+      "term": "CoGS",
+      "definition": "Cost of goods sold (COGS) includes all of the costs and expenses directly related to the production of goods. This amount includes the cost of the materials and labor directly used to create the good. It excludes indirect expenses, such as distribution costs and sales force costs."
+    },
+    {
+      "course": "analytics",
+      "term": "CLV",
+      "definition": "Customer lifetime value (CLV or CLTV) is a metric that represents the total net profit a company can expect to generate from a customer throughout their entire relationship."
+    },
+    {
+      "course": "analytics",
+      "term": "CDP",
+      "definition": "A customer data platform (CDP) is designed for marketing. It collects and unifies first-party customer data from multiple sources to build a single, coherent, complete view of each customer. It then makes that data available to marketers to create targeted and personalized marketing campaigns."
+    },
+    {
+      "course": "analytics",
+      "term": "A/B test",
+      "definition": "An A/B test is a method of comparing two variations of an ad, piece of content, or other material so you can see which version performs better.Also known as split testing, A/B testing involves changing one small element at a time (like a headline or graphic) to refine your results. During A/B testing, only a portion of your audience sees each test. This allows you to create the most effective content before you release it to your entire following."
+    },
+    {
+      "course": "analytics",
+      "term": "attribution",
+      "definition": "Marketing attribution tools work to analyse and track marketing touchpoints that a user interacts with that influences their path to purchase."
+    },
+    {
+      "course": "analytics",
+      "term": "data layer",
+      "definition": "A data layer is a JavaScript object that is used to pass information from your website to your Tag Manager container. "
+    },
+    {
+      "course": "analytics",
+      "term": "Google Tag Manager (GTM)",
+      "definition": "Google Tag Manager (GTM) is a free tool that enables you to install, store, and manage marketing tags without modifying website code. Google Tag Manager works by using a single JavaScript code snippet that you add to your site as a container for all the tags you want to manage. "
+    },
+    {
+      "course": "analytics",
+      "term": "incrementality",
+      "definition": "In the world of marketing, incrementality refers to growth that can be directly attributed to specific marketing efforts above and beyond the existing brand equity. For example, how much a certain channel, tactic, or overall campaign helped influence an increase in sales, newsletter sign-ups, etc."
+    },
+    {
+      "course": "analytics",
+      "term": "Marketing optimization. ",
+      "definition": "Marketing optimization is all about doing a better job of reaching your business's goals. It's the process of making adjustments to your marketing efforts based on the data you gather. "
+    },
+    {
+      "course": "analytics",
+      "term": "Tag",
+      "definition": "Tags are snippets of code analytics, marketing, and support platforms use to integrate with sites and apps."
+    },
+    {
+      "course": "analytics",
+      "term": "TMS",
+      "definition": "A tag management system (TMS) is software that can be used to manage tracking tags used in digital marketing."
+    },
+    {
+      "course": "analytics",
+      "term": "Trigger",
+      "definition": "A signal for the tag to act"
+    },
+    {
+      "course": "analytics",
+      "term": "UTM",
+      "definition": "A UTM (Urchin Tracking Module) code is a snippet of text added to the end of a URL to track the metrics and performance of a specific digital marketing campaign. UTM codes can contain up to five parameters: Campaign, source, medium, content, and term."
+    },
+    {
+      "course": "analytics",
+      "term": "Automatically collected events",
+      "definition": "Automatically collected events are events that are collected by default when you set up Google Analytics on your website or app."
+    },
+    {
+      "course": "analytics",
+      "term": "User engagement is the amount of time someone spends with your web page in focus or app screen in the foreground, which allows you to measure when users actively use your site or app.",
       "definition": ""
     },
     {
       "course": "analytics",
-      "term": "",
-      "definition": ""
+      "term": "Data streaming",
+      "definition": "Data streaming is the process of continuously collecting data as it's generated and moving it to a destination. This data is usually handled by stream processing software to analyze, store, and act on this information. "
     },
     {
       "course": "analytics",
-      "term": "",
-      "definition": ""
+      "term": "Engaged sessions",
+      "definition": "An engaged session is a session that lasts longer than 10 seconds, has a conversion event, or has at least 2 pageviews or screenviews."
     },
     {
       "course": "analytics",
-      "term": "",
-      "definition": ""
+      "term": "Engagement rate",
+      "definition": "Engagement rate is a measure of how many people interact with your social media content. There are several ways to calculate engagement rate, but all aim to calculate what percentage of people who were exposed to a post chose to engage with it in some way."
     },
     {
       "course": "analytics",
-      "term": "",
-      "definition": ""
+      "term": "Engaged sessions per user",
+      "definition": "Engaged sessions per user: the number of engaged sessions divided by the total number of users in a particular period."
     },
     {
       "course": "analytics",
-      "term": "",
-      "definition": ""
+      "term": "Enhanced measurement",
+      "definition": "Enhanced measurement lets you measure interactions with your content by enabling options (events) in the Google Analytics interface. No code changes are required."
     },
     {
       "course": "analytics",
-      "term": "",
-      "definition": ""
+      "term": "Event count",
+      "definition": "The Event Count metric in Google Analytics 4 measures the total number of times a specific event has occurred on your website or app, giving you insight into user engagement and behavior."
     },
     {
       "course": "analytics",
-      "term": "",
-      "definition": ""
+      "term": "Life cycle",
+      "definition": "Lifecycle marketing is the mix of strategies a company uses to positively influence customer behavior as they move through each touchpoint of the marketing cycle, from the initial attraction to becoming a brand advocate."
     },
     {
       "course": "analytics",
-      "term": "",
-      "definition": ""
+      "term": "Monetization",
+      "definition": "Data monetization is the process of utilizing data to procure economic benefits. Direct or external data monetization involves selling data to third parties independently or via a broker, data sharing to obtain beneficial business terms and conditions, and offering information services or products."
     },
     {
       "course": "analytics",
-      "term": "",
-      "definition": ""
+      "term": "Session",
+      "definition": "A session is any period of interaction on your site by an individual user. "
     },
     {
       "course": "analytics",
-      "term": "",
-      "definition": ""
-    },
-    {
-      "course": "analytics",
-      "term": "",
-      "definition": ""
-    },
-    {
-      "course": "analytics",
-      "term": "",
-      "definition": ""
-    },
-    {
-      "course": "analytics",
-      "term": "",
-      "definition": ""
-    },
-    {
-      "course": "analytics",
-      "term": "",
-      "definition": ""
-    },
-    {
-      "course": "analytics",
-      "term": "",
-      "definition": ""
-    },
-    {
-      "course": "analytics",
-      "term": "",
-      "definition": ""
-    },
-    {
-      "course": "analytics",
-      "term": "",
-      "definition": ""
-    },
-    {
-      "course": "analytics",
-      "term": "",
-      "definition": ""
-    },
-    {
-      "course": "analytics",
-      "term": "",
-      "definition": ""
-    },
-    {
-      "course": "analytics",
-      "term": "",
-      "definition": ""
+      "term": "acquisition report",
+      "definition": "The Traffic acquisition report is a pre-made detail report that's designed to help you understand where your website and app visitors are coming from."
     },
     {
       "course": "analytics",
